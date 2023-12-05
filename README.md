@@ -16,3 +16,4 @@ Assessors
 ERD Diagram
 
 ![image](https://github.com/food-s/postgradStudentTracker/assets/27000080/d864cd6c-2640-416a-9d65-a66aaa510479)
+![Postgrad Student Tracking-Page-2 drawio](https://github.com/food-s/postgradStudentTracker/assets/27000080/a56e6529-f575-4207-bcbb-5a64f3844eae)
