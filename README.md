@@ -13,5 +13,6 @@ To make these work (WIP):
 Supervisors/Assessors
 Assessors
 
+ERD Diagram
 
-
+![image](https://github.com/food-s/postgradStudentTracker/assets/27000080/d864cd6c-2640-416a-9d65-a66aaa510479)
